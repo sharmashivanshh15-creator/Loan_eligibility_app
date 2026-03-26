@@ -28,7 +28,7 @@ A comprehensive **End-to-End Machine Learning Pipeline** that predicts loan elig
 
 ##  **How It Works**
 
-### **1\. Risk Calculation Logic**
+### **1\. Risk Calculation Logic** 
 
 The app evaluates users based on a 100-point scale:
 
