@@ -2,7 +2,7 @@
 
 A comprehensive **End-to-End Machine Learning Pipeline** that predicts loan eligibility using a hybrid approach: a traditional **Rule-Based Risk Engine** and a **Random Forest Classifier**. Built with Python and deployed via an interactive Streamlit dashboard.
 
- **Features**
+## **Features**
 
 * **Synthetic Data Generation:** Custom script to generate realistic financial datasets with 500+ records.  
 * **Hybrid Decision Engine\* Rule-Based:** Uses weighted logic (Credit Score 50%, DTI 30%, EMI Ratio 20%) to calculate a real-time risk score.  
