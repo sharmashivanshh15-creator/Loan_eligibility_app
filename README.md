@@ -19,12 +19,12 @@ A comprehensive **End-to-End Machine Learning Pipeline** that predicts loan elig
 
 ##  **Project Structure**
 
-├── generate\_synthetic\_loans,py   \# Script to generate synthetic loan data  
-├── train\_loan\_model.py      \# ML pipeline (Preprocessing, Training, & Export)  
-├── loan.py              \# Main Streamlit Dashboard code  
-├── loan\_applications.csv \# The dataset (Generated & Appended)  
-├── loan\_model.pkl      \# Trained Random Forest model  
-└── scaler.pkl          \# Saved StandardScaler instance
+├── generate\_synthetic\_loans,py   \- Script to generate synthetic loan data  
+├── train\_loan\_model.py      \- ML pipeline (Preprocessing, Training, & Export)  
+├── loan.py              \- Main Streamlit Dashboard code  
+├── loan\_applications.csv \- The dataset (Generated & Appended)  
+├── loan\_model.pkl      \- Trained Random Forest model  
+└── scaler.pkl          \- Saved StandardScaler instance
 
 ##  **How It Works**
 
